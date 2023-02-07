@@ -7,7 +7,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkolesnikova)](https://github.com/dkolesnikova/github-readme-stats)
 
 
--->
   ### My technology stack is:
 
 | Java | Selenide | Gradle | Junit5 |  Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
