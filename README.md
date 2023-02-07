@@ -4,6 +4,8 @@
 <!--
 **dkolesnikova/dkolesnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkolesnikova)](https://github.com/dkolesnikova/github-readme-stats)
+
 
 -->
   ### My technology stack is:
@@ -12,6 +14,11 @@
 |:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
 |![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkolesnikova)](https://github.com/dkolesnikova/github-readme-stats)
+### You can find me on:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dkolesnikova&theme=ayu-light&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
++  [Telegram](https://t.me/dkolesni)
++ Email - dkolesnikova1999@bk.ru
+
+_Thank you for your attention_  
+
+
