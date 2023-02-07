@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="(https://github.com/dkolesnikova)" target="_blank">Darya</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA Engineer from Russia 🇷🇺</h3>
 
 <!--
