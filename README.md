@@ -15,8 +15,8 @@
 
 ### You can find me on:
 
-+  [Telegram](https://t.me/dkolesni)
-+ Email - dkolesnikova1999@bk.ru
++  Telegram - https://t.me/dkolesni
++  Email - dkolesnikova1999@bk.ru
 
 _Thank you for your attention_  
 
