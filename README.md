@@ -4,7 +4,7 @@
 <!--
 **dkolesnikova/dkolesnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkolesnikova)](https://github.com/dkolesnikova/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkolesnikova&show_icons=true&bg_color=00000000)
 
 
   ### My technology stack is:
