@@ -15,9 +15,9 @@
 
 #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/HeadHunter_diplom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=HeadHunter_diplom&theme=solarized-light)](https://github.com/dkolesnikova/HeadHunter_diplom)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_api&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_mobile)
 
