@@ -13,6 +13,15 @@
 |:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
 |![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
 
+#### My study projects for [qa guru](https://qa.guru/) school of automated testing :mortar_board:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=HeadHunter_diplom&theme=solarized-light)](https://github.com/dkolesnikova/HeadHunter_diplom)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=final_project_api
+&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_mobile)
+  
 ### You can find me on:
 
 +  Telegram - https://t.me/dkolesni
