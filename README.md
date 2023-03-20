@@ -13,9 +13,9 @@
 |:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
 |![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
 
-#### My study projects for [qa guru](https://qa.guru/) school of automated testing :mortar_board:
+#### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=HeadHunter_diplom)](https://github.com/dkolesnikova/HeadHunter_diplom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GhostLeen&repo=demo_ui_steam&theme=solarized-light)](https://github.com/GhostLeen/demo_ui_steam)
 
 [![Readme Card](https://github.com/dkolesnikova/final_project_api/blob/cad429d2901b6e05949991ecaf43242422386600/README.md&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
 
