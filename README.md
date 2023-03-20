@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="(https://github.com/dkolesnikova)" target="_blank">Darya</a> 
-<h3 align="center">QA Engineer from Russia 🇷🇺</h3>
+<h3 align="center">QA Engineer from Russia </h3>
 
 <!--
 **dkolesnikova/dkolesnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@
 
 #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GhostLeen&repo=demo_ui_steam&theme=solarized-light)](https://github.com/GhostLeen/demo_ui_steam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/HeadHunter_diplom)
 
-[![Readme Card](https://github.com/dkolesnikova/final_project_api/blob/cad429d2901b6e05949991ecaf43242422386600/README.md&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_mobile)
 
