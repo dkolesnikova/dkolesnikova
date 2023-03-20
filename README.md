@@ -17,8 +17,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=HeadHunter_diplom&theme=solarized-light)](https://github.com/dkolesnikova/HeadHunter_diplom)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=final_project_api
-&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
+[![Readme Card](https://github.com/dkolesnikova/final_project_api/blob/cad429d2901b6e05949991ecaf43242422386600/README.md&theme=solarized-light)](https://github.com/dkolesnikova/final_project_api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dkolesnikova&repo=final_project_mobile&theme=solarized-light)](https://github.com/dkolesnikova/final_project_mobile)
 
